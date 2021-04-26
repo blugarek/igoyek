@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @igoyek!
+- 👀 I’m interested in Java developing.
+- 🌱 I’m currently learning a Java development language and Bukkit API.
+- 📫 How to reach me? Preferably using Discord (igoyek#1337).
